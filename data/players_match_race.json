@@ -1,0 +1,6 @@
+[
+  {"match_id": 1, "player_id": "Larva", "race": "Zerg"},
+  {"match_id": 1, "player_id": "Sharp", "race": "Terran"},
+  {"match_id": 2, "player_id": "Bisu", "race": "Protoss"},
+  {"match_id": 2, "player_id": "Speed", "race": "Terran"}
+]

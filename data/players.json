@@ -1,0 +1,32 @@
+[
+  {"player_id": "Best", "race": "Protoss"},
+  {"player_id": "SnOw", "race": "Protoss"},
+  {"player_id": "Mini", "race": "Protoss"},
+  {"player_id": "Paralyze", "race": "Protoss"},
+  {"player_id": "Stork", "race": "Protoss"},
+  {"player_id": "Bisu", "race": "Protoss"},
+
+  {"player_id": "Light", "race": "Terran"},
+  {"player_id": "BarrackS", "race": "Terran"},
+  {"player_id": "Mong", "race": "Terran"},
+  {"player_id": "Rush", "race": "Terran"},
+  {"player_id": "Sharp", "race": "Terran"},
+  {"player_id": "Speed", "race": "Terran"},
+  {"player_id": "Ample", "race": "Terran"},
+  {"player_id": "JyJ", "race": "Terran"},
+  {"player_id": "RoyaL", "race": "Terran"},
+  {"player_id": "sSak", "race": "Terran"},
+  {"player_id": "TY", "race": "Terran"},
+
+  {"player_id": "Soulkey", "race": "Zerg"},
+  {"player_id": "Saber", "race": "Zerg"},
+  {"player_id": "Calm", "race": "Zerg"},
+  {"player_id": "hero", "race": "Zerg"},
+  {"player_id": "Jaedong", "race": "Zerg"},
+  {"player_id": "soma", "race": "Zerg"},
+  {"player_id": "BTS", "race": "Zerg"},
+  {"player_id": "effOrt", "race": "Zerg"},
+  {"player_id": "HyuN", "race": "Zerg"},
+  {"player_id": "Larva", "race": "Zerg"},
+  {"player_id": "Queen", "race": "Zerg"}
+]

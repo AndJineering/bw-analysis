@@ -1,0 +1,8 @@
+[
+  {"match_id": 1, "player_1": "Larva", "player_2": "Sharp", "winner": "Larva", "round": "Group A"},
+  {"match_id": 2, "player_1": "Bisu", "player_2": "Speed", "winner": "Bisu", "round": "Group B"},
+  {"match_id": 3, "player_1": "soma", "player_2": "Mini", "winner": "soma", "round": "Group C"},
+  {"match_id": 4, "player_1": "effOrt", "player_2": "Queen", "winner": "effOrt", "round": "Group D"},
+  {"match_id": 5, "player_1": "Jaedong", "player_2": "Rush", "winner": "Jaedong", "round": "Group E"},
+  {"match_id": 6, "player_1": "BTS", "player_2": "BarrackS", "winner": "BTS", "round": "Group F"}
+]

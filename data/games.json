@@ -1,0 +1,13 @@
+[
+  {"game_id": 101, "match_id": 1, "map": "Polaris Rhapsody", "winner": "Larva"},
+  {"game_id": 102, "match_id": 1, "map": "Metropolis", "winner": "Sharp"},
+  {"game_id": 103, "match_id": 1, "map": "Dominion SE", "winner": "Larva"},
+
+  {"game_id": 201, "match_id": 2, "map": "Radeon", "winner": "Bisu"},
+  {"game_id": 202, "match_id": 2, "map": "Litmus", "winner": "Speed"},
+  {"game_id": 203, "match_id": 2, "map": "KnockOut", "winner": "Bisu"},
+
+  {"game_id": 301, "match_id": 3, "map": "Roaring Currents", "winner": "soma"},
+  {"game_id": 302, "match_id": 3, "map": "Metropolis", "winner": "Mini"},
+  {"game_id": 303, "match_id": 3, "map": "Pole Star", "winner": "soma"}
+]

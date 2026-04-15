@@ -1,8 +1,1193 @@
-[
-  {"match_id": 1, "player_1": "Larva", "player_2": "Sharp", "winner": "Larva", "round": "Group A"},
-  {"match_id": 2, "player_1": "Bisu", "player_2": "Speed", "winner": "Bisu", "round": "Group B"},
-  {"match_id": 3, "player_1": "soma", "player_2": "Mini", "winner": "soma", "round": "Group C"},
-  {"match_id": 4, "player_1": "effOrt", "player_2": "Queen", "winner": "effOrt", "round": "Group D"},
-  {"match_id": 5, "player_1": "Jaedong", "player_2": "Rush", "winner": "Jaedong", "round": "Group E"},
-  {"match_id": 6, "player_1": "BTS", "player_2": "BarrackS", "winner": "BTS", "round": "Group F"}
-]
+{
+  "tournament": "ASL Season 20",
+  "stages": [
+    {
+      "stage": "Round of 24",
+      "groups": [
+        {
+          "group": "Group A",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Sharp",
+              "player2": "Ample",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Sharp",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Sharp"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Larva",
+              "player2": "Stork",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Larva",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Larva"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "Sharp",
+              "player2": "Larva",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Larva",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "Larva"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Ample",
+              "player2": "Stork",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Ample",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Ample"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Sharp",
+              "player2": "Ample",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Sharp",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Sharp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group B",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "JyJ",
+              "player2": "TY",
+              "score1": 0,
+              "score2": 1,
+              "winner": "TY",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "TY"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Bisu",
+              "player2": "Speed",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Bisu",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Bisu"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "Bisu",
+              "player2": "TY",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Bisu",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Litmus",
+                  "winner": "Bisu"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "JyJ",
+              "player2": "Speed",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Speed",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Litmus",
+                  "winner": "Speed"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "TY",
+              "player2": "Speed",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Speed",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Radeon",
+                  "winner": "Speed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group C",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Mini",
+              "player2": "Saber",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Mini",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Mini"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "soma",
+              "player2": "sSak",
+              "score1": 1,
+              "score2": 0,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "soma"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "soma",
+              "player2": "Mini",
+              "score1": 1,
+              "score2": 0,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "soma"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Saber",
+              "player2": "sSak",
+              "score1": 0,
+              "score2": 1,
+              "winner": "sSak",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "sSak"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Mini",
+              "player2": "sSak",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Mini",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Mini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group D",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Queen",
+              "player2": "HyuN",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Queen",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Queen"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "effOrt",
+              "player2": "Calm",
+              "score1": 1,
+              "score2": 0,
+              "winner": "effOrt",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "effOrt"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "Queen",
+              "player2": "effOrt",
+              "score1": 0,
+              "score2": 1,
+              "winner": "effOrt",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "effOrt"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "HyuN",
+              "player2": "Calm",
+              "score1": 1,
+              "score2": 0,
+              "winner": "HyuN",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Litmus",
+                  "winner": "HyuN"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Queen",
+              "player2": "HyuN",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Queen",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Radeon",
+                  "winner": "Queen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group E",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Rush",
+              "player2": "Paralyze",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Rush",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Rush"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Jaedong",
+              "player2": "Mong",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Jaedong",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Jaedong"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "Rush",
+              "player2": "Jaedong",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Jaedong",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Jaedong"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Paralyze",
+              "player2": "Mong",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Mong",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Mong"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Rush",
+              "player2": "Mong",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Rush",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Rush"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group F",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "hero",
+              "player2": "BTS",
+              "score1": 0,
+              "score2": 1,
+              "winner": "BTS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "BTS"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "RoyaL",
+              "player2": "BarrackS",
+              "score1": 0,
+              "score2": 1,
+              "winner": "BarrackS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "BarrackS"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "BTS",
+              "player2": "BarrackS",
+              "score1": 1,
+              "score2": 0,
+              "winner": "BTS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Litmus",
+                  "winner": "BTS"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "hero",
+              "player2": "RoyaL",
+              "score1": 0,
+              "score2": 1,
+              "winner": "RoyaL",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Litmus",
+                  "winner": "RoyaL"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "BarrackS",
+              "player2": "RoyaL",
+              "score1": 1,
+              "score2": 0,
+              "winner": "BarrackS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "BarrackS"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Round of 16",
+      "groups": [
+        {
+          "group": "Group A",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Soulkey",
+              "player2": "BarrackS",
+              "score1": 0,
+              "score2": 1,
+              "winner": "BarrackS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "BarrackS"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "effOrt",
+              "player2": "Rush",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Rush",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Rush"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "BarrackS",
+              "player2": "Rush",
+              "score1": 2,
+              "score2": 1,
+              "winner": "BarrackS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Radeon",
+                  "winner": "BarrackS"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "Rush"
+                },
+                {
+                  "game": 3,
+                  "map": "Pole Star",
+                  "winner": "BarrackS"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Soulkey",
+              "player2": "effOrt",
+              "score1": 0,
+              "score2": 2,
+              "winner": "effOrt",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "effOrt"
+                },
+                {
+                  "game": 2,
+                  "map": "Litmus",
+                  "winner": "effOrt"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Rush",
+              "player2": "effOrt",
+              "score1": 0,
+              "score2": 2,
+              "winner": "effOrt",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Metropolis",
+                  "winner": "effOrt"
+                },
+                {
+                  "game": 2,
+                  "map": "Radeon",
+                  "winner": "effOrt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group B",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Best",
+              "player2": "BTS",
+              "score1": 0,
+              "score2": 1,
+              "winner": "BTS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "BTS"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Queen",
+              "player2": "Bisu",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Bisu",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Bisu"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "BTS",
+              "player2": "Bisu",
+              "score1": 1,
+              "score2": 2,
+              "winner": "Bisu",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 2,
+                  "map": "Radeon",
+                  "winner": "BTS"
+                },
+                {
+                  "game": 3,
+                  "map": "Metropolis",
+                  "winner": "Bisu"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Best",
+              "player2": "Queen",
+              "score1": 2,
+              "score2": 1,
+              "winner": "Best",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Queen"
+                },
+                {
+                  "game": 2,
+                  "map": "Radeon",
+                  "winner": "Best"
+                },
+                {
+                  "game": 3,
+                  "map": "Dominator SE",
+                  "winner": "Best"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "BTS",
+              "player2": "Best",
+              "score1": 1,
+              "score2": 2,
+              "winner": "Best",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "BTS"
+                },
+                {
+                  "game": 2,
+                  "map": "Radeon",
+                  "winner": "Best"
+                },
+                {
+                  "game": 3,
+                  "map": "Metropolis",
+                  "winner": "Best"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group C",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "SnOw",
+              "player2": "Sharp",
+              "score1": 1,
+              "score2": 0,
+              "winner": "SnOw",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "SnOw"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Jaedong",
+              "player2": "Mini",
+              "score1": 0,
+              "score2": 1,
+              "winner": "Mini",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Mini"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "SnOw",
+              "player2": "Mini",
+              "score1": 2,
+              "score2": 1,
+              "winner": "SnOw",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 2,
+                  "map": "Dominator SE",
+                  "winner": "Mini"
+                },
+                {
+                  "game": 3,
+                  "map": "Radeon",
+                  "winner": "SnOw"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Sharp",
+              "player2": "Jaedong",
+              "score1": 0,
+              "score2": 2,
+              "winner": "Jaedong",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Jaedong"
+                },
+                {
+                  "game": 2,
+                  "map": "Roaring Currents",
+                  "winner": "Jaedong"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Mini",
+              "player2": "Jaedong",
+              "score1": 2,
+              "score2": 0,
+              "winner": "Mini",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Mini"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "Mini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "group": "Group D",
+          "matches": [
+            {
+              "label": "Match 1",
+              "player1": "Light",
+              "player2": "Speed",
+              "score1": 1,
+              "score2": 0,
+              "winner": "Light",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Light"
+                }
+              ]
+            },
+            {
+              "label": "Match 2",
+              "player1": "Larva",
+              "player2": "soma",
+              "score1": 0,
+              "score2": 1,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "soma"
+                }
+              ]
+            },
+            {
+              "label": "Winner's Match",
+              "player1": "Light",
+              "player2": "soma",
+              "score1": 1,
+              "score2": 2,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Radeon",
+                  "winner": "Light"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "soma"
+                },
+                {
+                  "game": 3,
+                  "map": "Dominator SE",
+                  "winner": "soma"
+                }
+              ]
+            },
+            {
+              "label": "Loser's Match",
+              "player1": "Speed",
+              "player2": "Larva",
+              "score1": 0,
+              "score2": 2,
+              "winner": "Larva",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Larva"
+                },
+                {
+                  "game": 2,
+                  "map": "Pole Star",
+                  "winner": "Larva"
+                }
+              ]
+            },
+            {
+              "label": "Final Match",
+              "player1": "Light",
+              "player2": "Larva",
+              "score1": 0,
+              "score2": 2,
+              "winner": "Larva",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Dominator SE",
+                  "winner": "Larva"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "Larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage": "Playoffs",
+      "rounds": [
+        {
+          "round": "Quarterfinals (Bo7)",
+          "matches": [
+            {
+              "player1": "BarrackS",
+              "player2": "Mini",
+              "score1": 4,
+              "score2": 3,
+              "winner": "BarrackS",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "KnockOut",
+                  "winner": "Mini"
+                },
+                {
+                  "game": 2,
+                  "map": "Roaring Currents",
+                  "winner": "BarrackS"
+                },
+                {
+                  "game": 3,
+                  "map": "Metropolis",
+                  "winner": "BarrackS"
+                },
+                {
+                  "game": 4,
+                  "map": "Litmus",
+                  "winner": "Mini"
+                },
+                {
+                  "game": 5,
+                  "map": "Pole Star",
+                  "winner": "BarrackS"
+                },
+                {
+                  "game": 6,
+                  "map": "Dominator SE",
+                  "winner": "Mini"
+                },
+                {
+                  "game": 7,
+                  "map": "Radeon",
+                  "winner": "BarrackS"
+                }
+              ]
+            },
+            {
+              "player1": "SnOw",
+              "player2": "effOrt",
+              "score1": 4,
+              "score2": 1,
+              "winner": "SnOw",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "effOrt"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 3,
+                  "map": "Dominator SE",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 4,
+                  "map": "Litmus",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 5,
+                  "map": "KnockOut",
+                  "winner": "SnOw"
+                }
+              ]
+            },
+            {
+              "player1": "soma",
+              "player2": "Best",
+              "score1": 4,
+              "score2": 2,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Pole Star",
+                  "winner": "Best"
+                },
+                {
+                  "game": 2,
+                  "map": "Metropolis",
+                  "winner": "soma"
+                },
+                {
+                  "game": 3,
+                  "map": "Radeon",
+                  "winner": "Best"
+                },
+                {
+                  "game": 4,
+                  "map": "Roaring Currents",
+                  "winner": "soma"
+                },
+                {
+                  "game": 5,
+                  "map": "Dominator SE",
+                  "winner": "soma"
+                },
+                {
+                  "game": 6,
+                  "map": "Litmus",
+                  "winner": "soma"
+                }
+              ]
+            },
+            {
+              "player1": "Bisu",
+              "player2": "Larva",
+              "score1": 4,
+              "score2": 1,
+              "winner": "Bisu",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "Larva"
+                },
+                {
+                  "game": 2,
+                  "map": "Pole Star",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 3,
+                  "map": "Radeon",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 4,
+                  "map": "Metropolis",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 5,
+                  "map": "KnockOut",
+                  "winner": "Bisu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": "Semifinals (Bo7)",
+          "matches": [
+            {
+              "player1": "BarrackS",
+              "player2": "SnOw",
+              "score1": 1,
+              "score2": 4,
+              "winner": "SnOw",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 2,
+                  "map": "Pole Star",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 3,
+                  "map": "Dominator SE",
+                  "winner": "BarrackS"
+                },
+                {
+                  "game": 4,
+                  "map": "KnockOut",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 5,
+                  "map": "Litmus",
+                  "winner": "SnOw"
+                }
+              ]
+            },
+            {
+              "player1": "soma",
+              "player2": "Bisu",
+              "score1": 4,
+              "score2": 3,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Radeon",
+                  "winner": "soma"
+                },
+                {
+                  "game": 2,
+                  "map": "Dominator SE",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 3,
+                  "map": "Metropolis",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 4,
+                  "map": "Pole Star",
+                  "winner": "soma"
+                },
+                {
+                  "game": 5,
+                  "map": "Roaring Currents",
+                  "winner": "soma"
+                },
+                {
+                  "game": 6,
+                  "map": "KnockOut",
+                  "winner": "Bisu"
+                },
+                {
+                  "game": 7,
+                  "map": "Litmus",
+                  "winner": "soma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": "Finals (Bo7)",
+          "matches": [
+            {
+              "player1": "SnOw",
+              "player2": "soma",
+              "score1": 2,
+              "score2": 4,
+              "winner": "soma",
+              "games": [
+                {
+                  "game": 1,
+                  "map": "Roaring Currents",
+                  "winner": "soma"
+                },
+                {
+                  "game": 2,
+                  "map": "Dominator SE",
+                  "winner": "soma"
+                },
+                {
+                  "game": 3,
+                  "map": "Radeon",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 4,
+                  "map": "Pole Star",
+                  "winner": "soma"
+                },
+                {
+                  "game": 5,
+                  "map": "Metropolis",
+                  "winner": "SnOw"
+                },
+                {
+                  "game": 6,
+                  "map": "KnockOut",
+                  "winner": "soma"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
